@@ -3,6 +3,11 @@
 - [ ] macOS
 - [ ] Linux
 
+### I am submitting a...
+- [ ] Bug
+- [ ] Feature request
+- [ ] Question
+
 ## Info
 OS Version:
 
